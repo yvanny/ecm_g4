@@ -1,0 +1,7 @@
+npx create-react-app project_name
+node -v
+
+pwd // show current location
+cd .. 
+cd folder_name
+clear // clear console
